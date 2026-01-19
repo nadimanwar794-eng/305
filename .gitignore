@@ -1,0 +1,8 @@
+node_modules/
+dist/
+npm_output.log
+dev_server.log
+npm_install.log
+vite.log
+vite_output.log
+.DS_Store
